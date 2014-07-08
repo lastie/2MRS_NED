@@ -1,0 +1,13 @@
+2194|162.09776 -25.16204           | 0.1|NGC 3393                      |10h48m23.46s|-25d09m43.4s|G     |  0.012509|H_alpha Emission-Line Galaxy            
+2461|146.91730 -30.94887           | 0.5|ESO 434- G 040                |09h47m40.16s|-30d56m55.4s|G     |  0.008486|H_alpha Emission-Line Galaxy            
+4503|146.93117 -32.83743           | 0.1|IC 2510                       |09h47m43.48s|-32d50m14.8s|G     |  0.009346|H_alpha Emission-Line Galaxy            
+5630|211.34201 -41.81821           | 3.2|IC 4362                       |14h05m22.22s|-41d49m08.3s|G     |  0.005981|H_alpha Emission-Line Galaxy            
+5933|51.22105 -60.73843            | 0.1|ESO 116- G 018                |03h24m53.05s|-60d44m18.4s|G     |  0.018500|H_alpha Emission-Line Galaxy            
+6320|316.64038 -49.21932           | 0.0|ESO 235- G 059                |21h06m33.69s|-49d13m09.6s|G     |  0.024901|H_alpha Emission-Line Galaxy            
+9908|149.92769 -31.21623           | 0.1|2MASX J09594263-3112581       |09h59m42.65s|-31d12m58.4s|G     |  0.037000|H_alpha Emission-Line Galaxy            
+10212|159.43076 -44.70553           | 0.0|ESO 264- G 016                |10h37m43.38s|-44d42m19.9s|G     |  0.019527|H_alpha Emission-Line Galaxy            
+11462|11.53764 -55.56848            | 0.0|ESO 150- G 022                |00h46m09.03s|-55d34m06.5s|G     |  0.025551|H_alpha Emission-Line Galaxy            
+13605|56.16208 -59.18658            | 0.2|2MASX J03443889-5911115       |03h44m38.90s|-59d11m11.9s|G     |  0.018146|H_alpha Emission-Line Galaxy            
+13805|319.89395 -45.38475           | 0.0|2MASX J21193452-4523051       |21h19m34.55s|-45d23m05.1s|G     |  0.009216|H_alpha Emission-Line Galaxy            
+13829|328.86401 -47.05395           | 0.0|2MASX J21552735-4703143       |21h55m27.36s|-47d03m14.2s|G     |  0.019273|H_alpha Emission-Line Galaxy            
+14869|317.99106 -45.91168           | 0.1|ESO 286- G 074                |21h11m57.85s|-45d54m42.1s|G     |  0.031491|H_alpha Emission-Line Galaxy            

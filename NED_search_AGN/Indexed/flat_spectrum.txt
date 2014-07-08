@@ -1,0 +1,90 @@
+36|                              | 2.4|CRATES J0047-2517 NED02       |00h47m33.17s|-25d17m17.3s|RadioS|          |Flat-Spectrum Radio Source              
+72|148.88826 +69.06526           | 0.1|MESSIER 081                   |09h55m33.17s|+69d03m55.1s|G     | -0.000113|Flat-Spectrum Radio Source              
+86|                              | 2.2|NGC 4945                      |13h05m27.48s|-49d28m05.6s|G     |  0.001878|Flat-Spectrum Radio Source              
+95|                              | 1.9|CRATES J0955+6940 NED03       |09h55m52.73s|+69d40m45.8s|RadioS|          |Flat-Spectrum Radio Source              
+129|                              | 1.3|MESSIER 083                   |13h37m00.95s|-29d51m55.5s|G     |  0.001711|Flat-Spectrum Radio Source              
+476|146.41164 -31.19109           | 0.1|NGC 2997                      |09h45m38.79s|-31d11m27.9s|G     |  0.003633|Flat-Spectrum Radio Source              
+526|188.91618 +12.55604           | 1.6|MESSIER 089                   |12h35m39.81s|+12d33m22.8s|G     |  0.001134|Flat-Spectrum Radio Source              
+567|                              | 0.4|CRATES J1356+0515 NED03       |13h56m07.21s|+05d15m17.2s|RadioS|          |Flat-Spectrum Radio Source              
+602|                              | 0.7|NGC 7213                      |22h09m16.31s|-47d09m59.8s|G     |  0.005839|Flat-Spectrum Radio Source              
+695|185.02841 +29.28050           | 0.9|NGC 4278                      |12h20m06.82s|+29d16m50.7s|G     |  0.002068|Flat-Spectrum Radio Source              
+755|179.48395 +55.45355           | 0.2|NGC 3998                      |11h57m56.13s|+55d27m12.9s|G     |  0.003496|Flat-Spectrum Radio Source              
+876|169.01950 -76.21632           | 0.1|NGC 3620                      |11h16m04.68s|-76d12m58.7s|G     |  0.005604|Flat-Spectrum Radio Source              
+899|204.16269 -33.96588           | 0.3|IC 4296                       |13h36m39.03s|-33d57m57.0s|G     |  0.012465|Flat-Spectrum Radio Source              
+1143|149.60246 -26.92660           | 0.2|CRATES J0958-2655 NED01       |09h58m24.60s|-26d55m35.9s|RadioS|          |Flat-Spectrum Radio Source              
+1164|105.66829 -28.69725           | 0.2|NGC 2325                      |07h02m40.40s|-28d41m50.0s|G     |  0.007288|Flat-Spectrum Radio Source              
+1194|14.45378 +30.35236            | 0.4|NGC 0315                      |00h57m48.88s|+30d21m08.8s|G     |  0.016485|Flat-Spectrum Radio Source              
+1306|199.88187 -12.65701           | 0.3|NGC 5077                      |13h19m31.67s|-12d39m25.1s|G     |  0.009360|Flat-Spectrum Radio Source              
+1380|49.95098 +41.51168            | 0.8|NGC 1275                      |03h19m48.16s|+41d30m42.1s|G     |  0.017559|Flat-Spectrum Radio Source              
+1458|                              | 0.8|NGC 5253                      |13h39m55.96s|-31d38m24.4s|G     |  0.001358|Flat-Spectrum Radio Source              
+1637|16.85396 +32.41256            | 0.1|NGC 0383                      |01h07m24.96s|+32d24m45.2s|G     |  0.017005|Flat-Spectrum Radio Source              
+1664|319.63770 +26.44691           | 0.4|NGC 7052                      |21h18m33.05s|+26d26m49.3s|G     |  0.015584|Flat-Spectrum Radio Source              
+1681|177.20985 +59.41562           | 0.2|NGC 3894                      |11h48m50.36s|+59d24m56.4s|G     |  0.010751|Flat-Spectrum Radio Source              
+1914|                              | 0.1|CRATES J2325+2829 NED01       |23h25m21.74s|+28d29m42.8s|RadioS|          |Flat-Spectrum Radio Source              
+2002|212.48880 +17.54548           | 0.2|CRATES J1409+1732 NED01       |14h09m57.30s|+17d32m43.9s|RadioS|          |Flat-Spectrum Radio Source              
+2083|217.13226 +27.40903           | 0.4|NGC 5635                      |14h28m31.76s|+27d24m32.2s|G     |  0.014397|Flat-Spectrum Radio Source              
+2231|185.75795 +58.44464           | 0.4|NGC 4335                      |12h23m01.88s|+58d26m40.4s|G     |  0.015417|Flat-Spectrum Radio Source              
+2288|268.99911 +18.33826           | 0.1|NGC 6500                      |17h55m59.78s|+18d20m17.7s|G     |  0.010017|Flat-Spectrum Radio Source              
+2314|44.42320 +6.02693             | 0.1|NGC 1128 NED02                |02h57m41.56s|+06d01m36.9s|G     |  0.022152|Flat-Spectrum Radio Source              
+2345|260.92096 -65.01024           | 0.2|NGC 6328                      |17h23m41.03s|-65d00m36.6s|G     |  0.014428|Flat-Spectrum Radio Source              
+2418|9.82741 +3.33130              | 0.2|CRATES J0039+0319 NED01       |00h39m18.58s|+03d19m52.5s|RadioS|          |Flat-Spectrum Radio Source              
+2422|53.57664 +39.35676            | 0.2|CRATES J0334+3921 NED01       |03h34m18.41s|+39d21m24.3s|RadioS|          |Flat-Spectrum Radio Source              
+2473|264.38916 +11.12173           | 0.2|UGC 10918                     |17h37m33.39s|+11d07m18.4s|G     |  0.021612|Flat-Spectrum Radio Source              
+2476|38.67966 +23.41306            | 0.3|NGC 0984                      |02h34m43.10s|+23d24m46.8s|G     |  0.014517|Flat-Spectrum Radio Source              
+2501|24.66347 -42.52752            | 0.0|NGC 0641                      |01h38m39.23s|-42d31m39.1s|G     |  0.021091|Flat-Spectrum Radio Source              
+2506|43.93422 -14.20778            | 0.5|IC 0270                       |02h55m44.19s|-14d12m28.4s|G     |  0.029170|Flat-Spectrum Radio Source              
+2575|354.62241 +27.03137           | 0.3|NGC 7720                      |23h38m29.39s|+27d01m53.2s|GPair |  0.030221|Flat-Spectrum Radio Source              
+2608|                              | 0.2|CRATES J0709+4836 NED02       |07h09m08.00s|+48d36m55.8s|RadioS|          |Flat-Spectrum Radio Source              
+2661|143.22049 +67.61740           | 0.1|NGC 2892                      |09h32m52.93s|+67d37m02.6s|G     |  0.022822|Flat-Spectrum Radio Source              
+2674|107.39245 +50.18225           | 0.3|NGC 2332                      |07h09m34.16s|+50d10m56.2s|G     |  0.019467|Flat-Spectrum Radio Source              
+2759|71.29810 -15.87002            | 0.5|NGC 1650                      |04h45m11.51s|-15d52m12.1s|G     |  0.035992|Flat-Spectrum Radio Source              
+2776|355.00342 +27.13372           | 0.2|NGC 7728                      |23h40m00.84s|+27d08m01.4s|G     |  0.031348|Flat-Spectrum Radio Source              
+2837|42.75365 +46.95485            | 0.3|IC 0260                       |02h51m00.88s|+46d57m17.2s|G     |  0.028907|Flat-Spectrum Radio Source              
+2894|175.31702 +59.88583           | 0.2|NGC 3809                      |11h41m16.06s|+59d53m08.8s|G     |  0.011485|Flat-Spectrum Radio Source              
+2911|246.29305 +40.89281           | 0.2|CRATES J1625+4053 NED01       |16h25m10.32s|+40d53m34.3s|RadioS|          |Flat-Spectrum Radio Source              
+3154|332.80008 +38.92728           | 0.3|IC 5180                       |22h11m12.01s|+38d55m37.9s|G     |  0.019960|Flat-Spectrum Radio Source              
+3171|211.87405 -27.01787           | 0.1|IC 4374                       |14h07m29.76s|-27d01m04.3s|G     |  0.021798|Flat-Spectrum Radio Source              
+3175|253.46756 +39.76019           | 0.1|MRK 0501                      |16h53m52.22s|+39d45m36.6s|QSO   |  0.033663|Flat-Spectrum Radio Source              
+3260|268.95184 +62.61216           | 0.3|NGC 6521                      |17h55m48.44s|+62d36m44.1s|G     |  0.027462|Flat-Spectrum Radio Source              
+3279|151.71620 +14.37357           | 0.3|NGC 3119                      |10h06m51.87s|+14d22m24.7s|G     |  0.029437|Flat-Spectrum Radio Source              
+3283|40.27572 +8.73801             | 0.2|NGC 1044 NED01                |02h41m06.16s|+08d44m16.9s|G     |  0.020801|Flat-Spectrum Radio Source              
+3588|52.34954 +39.79221            | 0.1|UGC 02755                     |03h29m23.89s|+39d47m31.9s|G     |  0.024437|Flat-Spectrum Radio Source              
+3592|346.52023 +34.10769           | 0.1|NGC 7485                      |23h06m04.86s|+34d06m27.7s|G     |  0.019033|Flat-Spectrum Radio Source              
+3746|337.83585 +39.35825           | 0.3|UGC 12064                     |22h31m20.58s|+39d21m29.5s|G     |  0.017132|Flat-Spectrum Radio Source              
+3817|                              | 6.0|IC 2082                       |04h29m07.60s|-53d49m38.0s|GPair |  0.041200|Flat-Spectrum Radio Source              
+3831|                              | 1.1|CRATES J1534+2330 NED05       |15h34m57.29s|+23d30m11.5s|RadioS|          |Flat-Spectrum Radio Source              
+3927|42.06173 +4.57808             | 0.3|NGC 1101                      |02h48m14.83s|+04d34m40.9s|G     |  0.023660|Flat-Spectrum Radio Source              
+3979|39.42417 +1.97531             | 0.3|NGC 1004                      |02h37m41.78s|+01d58m31.1s|G     |  0.021592|Flat-Spectrum Radio Source              
+4408|166.11382 +38.20885           | 0.1|MRK 0421                      |11h04m27.31s|+38d12m31.8s|G     |  0.030021|Flat-Spectrum Radio Source              
+4484|266.23596 +55.70470           | 0.3|NGC 6454                      |17h44m56.61s|+55d42m17.2s|G     |  0.030421|Flat-Spectrum Radio Source              
+4500|106.24689 -49.08321           | 0.1|ESO 207- G 019                |07h04m59.25s|-49d04m59.5s|G     |  0.041929|Flat-Spectrum Radio Source              
+4550|68.29621 +5.35433             | 0.1|3C 120                        |04h33m11.10s|+05d21m15.6s|G     |  0.033010|Flat-Spectrum Radio Source              
+4707|                              | 5.2|NGC 7018                      |21h07m25.35s|-25d25m39.9s|GTrpl |  0.038807|Flat-Spectrum Radio Source              
+4892|4.90748 +29.93387             | 0.1|NGC 0076                      |00h19m37.79s|+29d56m01.9s|G     |  0.024440|Flat-Spectrum Radio Source              
+5148|37.78865 -57.91835            | 0.1|ESO 115- G 015                |02h31m09.28s|-57d55m06.1s|G     |  0.031989|Flat-Spectrum Radio Source              
+5241|12.19641 +31.95696            | 0.0|NGC 0262                      |00h48m47.14s|+31d57m25.1s|G     |  0.015034|Flat-Spectrum Radio Source              
+5320|257.36795 -22.44737           | 0.3|2MASX J17092831-2226505       |17h09m28.29s|-22d26m50.6s|G     |  0.030955|Flat-Spectrum Radio Source              
+5578|330.89648 +15.10679           | 0.1|IC 1427                       |22h03m35.16s|+15d06m24.4s|G     |  0.026035|Flat-Spectrum Radio Source              
+5870|114.33665 +19.63720           | 0.1|CGCG 087-018                  |07h37m20.80s|+19d38m13.9s|G     |  0.028076|Flat-Spectrum Radio Source              
+5921|350.83472 +20.58990           | 0.2|CGCG 454-057                  |23h23m20.34s|+20d35m23.5s|G     |  0.038190|Flat-Spectrum Radio Source              
+5922|103.79185 +41.00279           | 0.2|CGCG 204-027                  |06h55m10.02s|+41d00m10.2s|G     |  0.021562|Flat-Spectrum Radio Source              
+6143|133.32887 +68.47191           | 0.2|CGCG 332-026                  |08h53m18.90s|+68d28m19.0s|G     |  0.040265|Flat-Spectrum Radio Source              
+6253|235.89139 +4.87199            | 0.2|CGCG 050-083                  |15h43m33.93s|+04d52m19.3s|G     |  0.039961|Flat-Spectrum Radio Source              
+6277|94.17524 +66.50671            | 0.1|CGCG 308-017                  |06h16m42.07s|+66d30m24.2s|G     |  0.014033|Flat-Spectrum Radio Source              
+6347|198.07080 +44.83921           | 0.2|CGCG 245-031                  |13h12m17.00s|+44d50m21.3s|G     |  0.035568|Flat-Spectrum Radio Source              
+6411|211.36409 -32.83096           | 0.3|ESO 384- G 047                |14h05m27.40s|-32d49m51.3s|G     |  0.034260|Flat-Spectrum Radio Source              
+6433|346.11755 +27.35735           | 0.4|MCG +04-54-023                |23h04m28.24s|+27d21m26.5s|G     |  0.025087|Flat-Spectrum Radio Source              
+6813|114.37540 +59.68421           | 0.1|UGC 03927                     |07h37m30.09s|+59d41m03.2s|G     |  0.040538|Flat-Spectrum Radio Source              
+6869|78.52711 +2.51734             | 0.4|CGCG 395-021                  |05h14m06.48s|+02d31m02.4s|G     |  0.028690|Flat-Spectrum Radio Source              
+6978|195.12915 -44.24489           | 0.0|AM 1257-435 NED02             |13h00m31.00s|-44d14m41.6s|G     |  0.032169|Flat-Spectrum Radio Source              
+7148|36.36382 +37.17434            | 0.2|CGCG 523-037                  |02h25m27.33s|+37d10m27.7s|G     |  0.033386|Flat-Spectrum Radio Source              
+7338|51.97586 +2.56167             | 0.2|UGC 02748                     |03h27m54.19s|+02d33m42.0s|G     |  0.030221|Flat-Spectrum Radio Source              
+7671|327.87466 -55.33686           | 0.0|PKS 2148-555                  |21h51m29.92s|-55d20m12.7s|G     |  0.038783|Flat-Spectrum Radio Source              
+8647|259.81033 +48.98041           | 0.1|UGC 10814 NOTES01             |17h19m14.49s|+48d58m49.4s|G     |  0.024167|Flat-Spectrum Radio Source              
+8872|                              | 0.6|CRATES J1344+5553 NED01       |13h44m42.13s|+55d53m13.5s|RadioS|          |Flat-Spectrum Radio Source              
+10625|16.63758 -46.64352            | 0.0|ESO 243- G 029                |01h06m33.02s|-46d38m36.7s|G     |  0.030688|Flat-Spectrum Radio Source              
+10640|                              | 3.9|MCG -05-13-021                |05h25m38.71s|-31d33m06.3s|G     |  0.034317|Flat-Spectrum Radio Source              
+10869|347.82254 +17.88192           | 0.2|MCG +03-59-008                |23h11m17.42s|+17d52m55.0s|G     |  0.039494|Flat-Spectrum Radio Source              
+11016|331.07358 +4.66722            | 0.0|CGCG 403-019                  |22h04m17.66s|+04d40m02.0s|G     |  0.027000|Flat-Spectrum Radio Source              
+12684|263.30234 +70.77493           | 0.3|CGCG 339-050                  |17h33m12.51s|+70d46m29.8s|G     |  0.040800|Flat-Spectrum Radio Source              
+14022|356.10208 +9.16461            | 0.0|CGCG 407-048 NED01            |23h44m24.50s|+09d09m52.6s|G     |  0.035775|Flat-Spectrum Radio Source              

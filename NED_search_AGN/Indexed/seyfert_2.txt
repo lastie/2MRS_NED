@@ -1,0 +1,7 @@
+156|                              | 0.9|MESSIER 104                   |12h39m59.43s|-11d37m23.0s|G     |  0.003416|unobscured Seyfert 2                    
+399|189.08669 +25.98739           | 1.1|NGC 4565                      |12h36m20.78s|+25d59m15.6s|G     |  0.004103|unobscured Seyfert 2                    
+477|189.43166 +11.81809           | 1.2|MESSIER 058                   |12h37m43.52s|+11d49m05.5s|G     |  0.005060|unobscured Seyfert 2                    
+860|154.22359 +73.40069           | 0.2|NGC 3147                      |10h16m53.65s|+73d24m02.7s|G     |  0.009346|unobscured Seyfert 2                    
+979|192.09550 +8.48730            | 0.4|NGC 4698                      |12h48m22.91s|+08d29m14.6s|G     |  0.003366|unobscured Seyfert 2                    
+2140|248.13274 +82.53791           | 0.2|NGC 6251                      |16h32m31.97s|+82d32m16.4s|G     |  0.024710|unobscured Seyfert 2                    
+5932|                              | 3.1|ESO 540- G 001                |00h34m13.82s|-21d26m20.6s|G     |  0.026845|unobscured Seyfert 2                    

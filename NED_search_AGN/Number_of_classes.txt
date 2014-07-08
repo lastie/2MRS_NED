@@ -1,0 +1,15 @@
+172-26-31-128:Indexed yz1345$ wc -l *.txt
+       5 AGN.txt
+      20 Emission_line.txt
+      21 H_II.txt
+      13 H_alpha.txt
+      47 LINER.txt
+   15070 NED_search_indexed.txt
+      58 Starburst.txt
+     132 Sy2_total.txt
+     108 Sy_1.txt
+     125 Sy_2.txt
+      21 Sy__.txt
+       3 USS.txt
+      90 flat_spectrum.txt
+       7 seyfert_2.txt
