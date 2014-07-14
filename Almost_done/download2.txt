@@ -1,0 +1,5 @@
+CGCG_430-003:['http://ned.ipac.caltech.edu/spc1/2000/2000UZC...C......0F/22/CGCG_2241.7+0948:S:UBVR:f2000.fits.gz']
+ESO_029-_G_034:[]
+MRK_1170:[]
+CGCG_261-008:[]
+UGC_03969:[]
